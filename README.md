@@ -1,16 +1,18 @@
-### Hi there 👋
+# Qaxt
+I am a programmer, designer, and chess player. Most of my projects are centred around **JavaScript** and web development, but I also make other interesting creations. My favourite framework is [Vue](https://github.com/vuejs)!
 
-<!--
-**qaxt/qaxt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Followers](https://img.shields.io/github/followers/qaxt?colorA=%232f3136&colorB=%231a73e8&label=Followers&style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/qaxt?colorA=%232f3136&colorB=%231a73e8&label=Stars&style=for-the-badge)
 
-Here are some ideas to get you started:
+## Stats
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qaxt&title_color=1a73e8&bg_color=2f3136&text_color=ffffff&layout=compact&hide_border=true)](https://npmjs.com/~quxapp)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/qaxt"><img src="https://github-readme-stats.vercel.app/api?username=qaxt&bg_color=2f3136&title_color=1a73e8&text_color=fff&icon_color=fff&show_icons=true&include_all_commits=true&count_private=true&hide_border=true"></a>
+
+## Skills
+- **JavaScript**
+- **Vue**
+- **Python**
+- **Dart**
+- **C#**
+- **Figma**
